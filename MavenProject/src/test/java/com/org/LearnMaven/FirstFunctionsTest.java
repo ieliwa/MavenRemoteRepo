@@ -11,7 +11,7 @@ public class FirstFunctionsTest {
 		System.out.println("Test scenario 1");
 		
 		WebDriver driver= new FirefoxDriver();
-		driver.get("https://www.hotmail.com");
+		driver.get("https://www.google.com");
 	}
 	
 }
